@@ -1,8 +1,8 @@
 ---
 layout: default
-img: flowers.jpg
+img: 
 category: Services
-title: Hypnotherapy
+title: What is hypnotherapy?
 description: |
 ---
-  Some infor on hypnotherapy
+  Hypnotherapy is the therapeutic practice of hypnosis - which is a naturally occurring, deep state of relaxation where the subconscious mind is receptive to new behaviors, beliefs, and habits. After discussing your goals and desires, and within a safe container, a hypnotherapist guides you in working with your subconscious mind to support your agreed upon goals. During the session, you will be deeply relaxed and fully aware. At the end of the session, you will have a sense of peace and well-being.

@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: 
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: What can you do with hypnotherapy?
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+More than you can imagine! One-off sessions for dreams, finding clarity, connecting with your true, inner self are quite powerful.  As are releasing limiting beliefs and letting go of past situations.  Shifting health issues and experiencing less physical pain. Opening to success, abundance, and wellbeing. Anything connected to living your most radiant, vibrant life. The power of the mind has no limits for personal application.
