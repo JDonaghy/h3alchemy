@@ -1,6 +1,6 @@
 ---
 layout: default
-img: watch.jpg
+img: watch.png
 category: Services
 title: Testimonials
 description: |
