@@ -1,8 +1,0 @@
----
-layout: default
-img: HFNR-Sun-Logo-200.png
-category: Services
-title: Happiness
-description: |
----
-  Some information on happiness. Tracie is a certified Happy for no Reason trainer.

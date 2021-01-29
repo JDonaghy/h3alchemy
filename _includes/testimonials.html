@@ -1,0 +1,23 @@
+<section id="testimonials">
+	<div class="container">
+		<div class="row" style="margin-bottom: 16px;">
+			<div class="col-xs-12">
+				<h2>Testimonials</h2> 
+				<div class="splide">
+					<div class="splide__track">
+						<ul class="splide__list">
+							{% for testimonial in site.testimonials %}
+							<li class="splide__slide">
+								<div class="lead" style="margin: 50px;">
+									<p>{{ testimonial.content | markdownify }}</p>
+									<div style="text-align: right;">{{ testimonial.name }}</div>
+								</div>
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

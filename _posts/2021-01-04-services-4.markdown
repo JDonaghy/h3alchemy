@@ -1,0 +1,8 @@
+---
+layout: default
+img: watch.jpg
+category: Services
+title: Work with Me
+description: |
+---
+Sessions take place over Zoom and my clients are from across the United States, Canada, and Europe - so I gladly work with any time zone. To schedule a session or book a 15-minute discovery call, email: {{ site.email }}

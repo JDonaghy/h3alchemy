@@ -11,6 +11,10 @@
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- Splide CSS for slideshows -->
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/splide.min.css">
+
     <!-- Custom CSS -->
     <link href="css/landing-page.css" rel="stylesheet">
 
@@ -28,5 +32,16 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <script>
+        document.addEventListener( 'DOMContentLoaded', function () {
+            var splide = new Splide( '.splide', {
+                autoplay: true,
+                rewind: true,
+                interval: 8000
+            } );
+            splide.mount();
+        } );
+    </script>
 
 </head>

@@ -1,0 +1,9 @@
+---
+layout: default
+img: HFNR-Sun-Logo-200.png
+category: Services
+title: Being “Happy for No Reason”
+description: |
+---
+As a Happy for No Reason&trade; certified trainer, I teach online classes and work one-on-one on embodying true happiness from within. Using powerful tools and techniques from both *Happy for No Reason* and *Love for No Reason* combined with hypnotherapy is utterly transformative. You can raise your “happiness set point” and experience more unconditional happiness and love in your life.
+

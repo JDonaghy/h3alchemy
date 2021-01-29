@@ -1,8 +1,0 @@
----
-layout: default
-img: watch.jpg
-category: Services
-title: Testimonials
-description: |
----
-Some testimonial text...
