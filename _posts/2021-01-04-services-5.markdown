@@ -1,0 +1,8 @@
+---
+layout: default
+img: tracie.jpg
+category: Services
+title: About Me
+description: |
+---
+Everything I share comes from the very tools I work with myself that have exponentially increased my quality of life. This work is the result of my own health journey which led me to years of training and certifications in modalities that create profound transformation. Transformation through transmutation. Alchemy.
