@@ -1,8 +1,9 @@
 ---
 layout: default
-img: watch.jpg
+img: HFNR-Sun-Logo-200.png
 category: Services
-title: Work with Me
+title: Being “Happy for No Reason”
 description: |
 ---
-Sessions take place over Zoom and my clients are from across the United States, Canada, and Europe - so I gladly work with any time zone. To schedule a session or book a 15-minute discovery call, email: {{ site.email }}
+Did you know that 80% of the average person’s thoughts are negative? Toxic positivity isn’t a good thing, but neither is toxic negativity! Being “Happy for No Reason” means having an inner state of peace and wellbeing that doesn’t depend on your circumstances. Working with your inner state at this level allows you to raise your “happiness set point” and experience more unconditional happiness and love in your life. As a Happy for No Reason&trade; certified trainer, I offer online workshops and work one-on-one using practices from both *Happy for No Reason* and *Love for No Reason* in embodying true happiness from within.  
+
